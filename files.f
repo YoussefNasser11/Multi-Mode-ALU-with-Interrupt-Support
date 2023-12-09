@@ -1,1 +1,1 @@
-alu_tb.sv alu.svp
+ALU_TB.sv alu.svp
